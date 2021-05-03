@@ -1,0 +1,21 @@
+﻿  Complex.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.h(13,9): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.h(25,49): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.h(26,42): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.h(27,51): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.h(28,44): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.h(35,72): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.cpp(7,55): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.cpp(36,57): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.cpp(44,50): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.cpp(52,59): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.cpp(61,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.cpp(62,1): warning C5043: 'Complex::operator ++': exception specification does not match previous declaration
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.h(28): message : see declaration of 'Complex::operator ++'
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\Complex.cpp(96,64): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  MyDerivedException.cpp
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\MyDerivedException.cpp(4,1): warning C5043: 'MyDerivedException::What': exception specification does not match previous declaration
+C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Lab5.1.B\MyDerivedException.h(10): message : see declaration of 'MyDerivedException::What'
+  Generating Code...
+  Lab5.1.B.vcxproj -> C:\Student\ Tkachenko.Marharyta.IK11\Lab5.1.B\Debug\Lab5.1.B.exe
